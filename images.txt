@@ -1,3 +1,5 @@
+# nginx
+nginx
 # pg
 pgvector/pgvector:pg16
 # lobechat
