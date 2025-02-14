@@ -4,3 +4,4 @@ nginx
 pgvector/pgvector:pg16
 # lobechat
 lobehub/lobe-chat-database
+# 
